@@ -22,7 +22,10 @@ This project was developped in a Unix environment and hasn't been tested in Wind
 Simply run with MATLAB the file `GA.m`.
 
 ## Results
-Results are shown and commented (in french) in the PDF file.
+The following are the optimized airfoil geometries obtained with both algorithms.
+![Optimized airfoils](https://github.com/gprieto/airfoil_aerodynamic_optimization/blob/master/airfoils.png)
+
+Results are more extensively shown and discussed (in french) in the PDF file.
 
 ## Contributors
 * **Guillermo Prieto** - developped the optimization algorithms
